@@ -101,7 +101,7 @@ function drawAnnotations() {
     text(i, i * unitSize, rHeight-10); // Adjust text position as needed
   }
   textAlign('LEFT','CENTER')
-  text('       ➗      (', 140, 130);
-  text('∕', 220, 130);
-  text(')', 270, 130);
+  text('   ➗     (', 140, 120);
+  text('∕', 215, 120);
+  text(')', 270, 120);
 }
