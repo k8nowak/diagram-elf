@@ -1,8 +1,8 @@
 // Global variables
 let a = 3;
 let b = 5;
-let aLabel = 'mix (tsp)'
-let bLabel = 'water (cups)'
+let aLabel = 'quantity A'
+let bLabel = 'quantity B'
 let totalLength=6;
 let partitionLength=1;
 let padding = 60;
